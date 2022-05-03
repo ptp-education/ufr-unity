@@ -1,0 +1,18 @@
+{
+  "name": "com.lando.ufrplugin",
+  "version": "1.0.1",
+  "displayName": "uFR Reader Plugin",
+  "description": "Unity package for use with uFR readers",
+  "unity": "2021.1",
+  "unityRelease": "21f1",
+  "keywords": [
+    "uFR",
+    "Unity",
+    "NFC",
+    "RFID"
+  ],
+  "author": {
+    "name": "Felix Hu",
+    "email": "felix@findlando.com"
+  }
+}
